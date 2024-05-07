@@ -2,15 +2,15 @@
 
 
 
-## 📑 Обо мне:
+## 📑Обо мне:
 
 - 🌱 &nbsp; Я занимаюсь разработкой программного обеспечения с 14 лет
 - 💡 &nbsp; Всего у меня 26 проектов, 7 из них находятся в стадии активной разработки
 - 🎓 &nbsp; Жизненный цикл самых популярных проектов публикую в <a href="https://t.me/botgen_group">Telegram Канал</a>.
 
-<p align="left">
-🌎 Связаться со мной: ⤵️
-</p>
+<h2 align="left">
+🌎Связаться со мной: ⤵️
+</h2>
 
 
 <p align="left">
@@ -28,9 +28,9 @@
 
 ---
 
-<p align="left">
-⭐🚀 Ститистика GitHub 
-</p>  
+<h2 align="left">
+⭐🚀Ститистика GitHub 
+</h2>  
 
 <a href="https://github.com/fedosssss">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedosssss&theme=dracula&hide_langs_below=1" />
